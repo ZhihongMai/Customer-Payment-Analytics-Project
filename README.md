@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# 📂 **Project2: Customer Payment Analytics**
+# 📂 **Customer Payment Analytics**
 
 
 ## 📚 *Introduction*
